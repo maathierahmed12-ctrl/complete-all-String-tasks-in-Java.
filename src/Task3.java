@@ -5,18 +5,32 @@ import java.util.*;
 
         }
 
-        public static String Task3(String str) {
+        public static boolean Task3(String str) {
 
-            String count = "";
-            for (int i = 0; i < str.length(); i++) {
-                char ch = str.charAt(i);
-                count += count;
+            int cat = 0;
+            int dog = 0;
+            int count = 0;
 
-                count = str + count;
-            }
-            return count;
-        }
+            for (int i = 0; i <= str.length() - 1; i++) {
 
-    }
+                if (str.equals("cat")) {
+                    count++;
+                } else {
 
-}
+                    if (str.equals("dog")) {
+                        count++;
+                    }
+                    return cat == dog;
+
+                }
+
+
+
+
+
+
+
+
+
+
+
