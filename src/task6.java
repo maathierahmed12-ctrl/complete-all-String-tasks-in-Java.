@@ -6,8 +6,8 @@ public class Task5 {
 
     public static boolean Task6(String str) {
 
-        int str1 ;
-        int str2;
+
+
 
         for (int i = 0; i <= str.length()-3; i++) {
 
