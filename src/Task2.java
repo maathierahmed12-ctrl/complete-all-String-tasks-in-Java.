@@ -10,12 +10,12 @@
             String count = "";
             for (int i = 0; i < str.length(); i++) {
                 char ch = str.charAt(i);
-                count++;
+                 count += count;
 
-                count = ch + count;
+                count = str + count;
             }
             return count;
         }
 
     }
-}
+
