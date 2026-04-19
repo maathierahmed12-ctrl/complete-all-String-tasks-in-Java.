@@ -11,7 +11,7 @@ public class Task4 {
 
         for (int i = 0; i <= str.length()-3; i++) {
 
-            if(str.charAt(i) == 'c'&& str.charAt(i+1) == 'o'&& str.charAt(i+3) == 'e');
+            if (str.charAt(i) == 'c'&& str.charAt(i+1) == 'o'&& str.charAt(i+3) == 'e');
 
             count++;
         }
