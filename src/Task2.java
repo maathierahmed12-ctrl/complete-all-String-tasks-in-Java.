@@ -5,7 +5,7 @@
 
         }
 
-        public static String Task3(String str) {
+        public static String Task2(String str) {
 
             String count = "";
             for (int i = 0; i < str.length(); i++) {

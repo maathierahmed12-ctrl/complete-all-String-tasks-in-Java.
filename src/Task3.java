@@ -5,7 +5,7 @@ import java.util.*;
 
         }
 
-        public static String doubleChar(String str) {
+        public static String Task3(String str) {
 
             String count = "";
             for (int i = 0; i < str.length(); i++) {
