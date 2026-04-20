@@ -10,7 +10,7 @@ public class task18 {
 
         for (int i = 0; i < str.length() ; i++) {
         }
-        return + = str.charAt(i);
+        return  + = str.charAt(i);
 
         if (str.charAt(i) == 'z' && i + 2 < str.length() && str.charAt(i+2) == 'p') {
             result += str.charAt(i+2);
