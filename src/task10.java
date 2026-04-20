@@ -5,15 +5,15 @@ public class Task10 {
 
     public static boolean Task10(String str) {
 
-        int last = n;
-        int charAt = 'a';
-        int charAt = 'b';
+        int ln;
+
         int result = 0;
 
         for (int i = 0; i < n; i++) {
 
-            return +=last n;
+            return +=l n;
         }
 
-           return result;
+        return result;
     }
+}
