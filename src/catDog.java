@@ -1,11 +1,10 @@
-import java.util.*;
-    public class Task3 {
+public class catDog {
         public static void main(String[] args) {
 
 
         }
 
-        public static boolean Task3(String str) {
+        public static boolean catDog(String str) {
 
             int cat = 0;
             int dog = 0;
