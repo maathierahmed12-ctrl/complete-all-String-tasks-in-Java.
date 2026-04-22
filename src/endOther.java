@@ -1,10 +1,10 @@
-public class Task5 {
+public class endOther {
     public static void main(String[] args) {
 
 
     }
 
-    public static boolean Task5(String str) {
+    public static boolean endOther(String str) {
 
          int str1;
          int str2;
