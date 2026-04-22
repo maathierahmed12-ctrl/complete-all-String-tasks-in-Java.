@@ -1,10 +1,10 @@
-public class Task4 {
+public class countCode {
     public static void main(String[] args) {
 
 
     }
 
-    public static int Task3(String str) {
+    public static int countCode(String str) {
 
         int count = 0;
 
