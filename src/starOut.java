@@ -1,7 +1,7 @@
-public class task19 {
+public class starOut {
 
 
-    public static String[] Task19(String str, String charAt) {
+    public static String[] starOut(String str, String charAt) {
 
         String result = "";
         for (int i = 1; i < str.length() - 1; i++) {
