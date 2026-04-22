@@ -1,9 +1,9 @@
-public class Task5 {
+public class bobThere {
     public static void main(String[] args) {
 
     }
 
-    public static boolean Task7(String str) {
+    public static boolean bobThere(String str) {
 
             if(str.length() < 2){
 

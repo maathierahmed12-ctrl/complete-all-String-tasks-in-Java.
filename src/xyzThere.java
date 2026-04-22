@@ -1,10 +1,10 @@
-public class Task5 {
+public class xyzThere {
     public static void main(String[] args) {
 
 
     }
 
-    public static boolean Task6(String str) {
+    public static boolean xyzThere(String str) {
 
 
 
