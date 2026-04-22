@@ -1,16 +1,16 @@
-public class task13 {
+public class prefixAgain {
 
     public static void main(String[] args) {
 
     }
 
-    public static boolean Task13(String n , String str) {
+    public static boolean prefixAgain(String n, String str) {
 
         String result = "";
 
-        for (int i = n; str >length(); i++) {
+        for (int i = n; str > length(); i++) {
 
-            if(str.length() < n) {
+            if (str.length() < n) {
 
                 if (str == "n") {
 
@@ -20,3 +20,4 @@ public class task13 {
 
                 }
             }
+        }
