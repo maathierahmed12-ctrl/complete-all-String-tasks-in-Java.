@@ -1,9 +1,9 @@
-public class Task9 {
+public class xyBalance {
     public static void main(String[] args) {
 
     }
 
-    public static boolean Task9(String str) {
+    public static boolean xyBalance(String str) {
 
         int max;
         int charAt = 'a';

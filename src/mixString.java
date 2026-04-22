@@ -1,9 +1,9 @@
-public class Task10 {
+public class mixString {
     public static void main(String[] args) {
 
     }
 
-    public static boolean Task10(String str) {
+    public static boolean mixString(String str) {
 
         int ln;
 
