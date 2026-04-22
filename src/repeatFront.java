@@ -1,16 +1,16 @@
-public class task12 {
+public class repeatFront {
 
         public static void main(String[] args) {
 
         }
 
-        public static boolean Task12(String word , String sep) {
+        public static boolean repeatFront(String word , String sep) {
 
             String result = "";
 
             for (int i = n; i > 0; i++) {
 
-                result += word + sep
+                result += word + sep;
 
             }
             return result;
