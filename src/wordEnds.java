@@ -1,5 +1,5 @@
-public class task21 {
-    public static boolean Task21(String word, String str) {
+public class wordEnds {
+    public static boolean wordEnds(String word, String str) {
 
         String result = "";
 
