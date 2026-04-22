@@ -1,9 +1,9 @@
-public class task14 {
+public class xyzMiddle {
     public static void main(String[] args) {
 
     }
 
-    public static boolean Task14(String mid, String left, String right , String str) {
+    public static boolean xyzMiddle(String mid, String left, String right , String str) {
 
         String result = "";
 
