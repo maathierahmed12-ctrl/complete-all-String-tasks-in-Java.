@@ -1,9 +1,9 @@
-public class task20 {
-    public static boolean Task20(String word, String str) {
+public class plusOut {
+    public static boolean plusOut(String word, String str) {
 
         String result = "";
 
-        for (int i = str.charAt='+'; i > 0; i++) {
+        for (int i = str.charAt = '+'; i > 0; i++) {
 
             if (str.charAt(i) == '+') {
 
@@ -12,13 +12,12 @@ public class task20 {
 
             }
         }
-        for (int i = str.charAt='+'; i > 0; i--) {
+        for (int i = str.charAt = '+'; i > 0; i--) {
 
             if (str.charAt(i) == '+') {
 
                 result += word;
             }
 
-
-
+        }
 
