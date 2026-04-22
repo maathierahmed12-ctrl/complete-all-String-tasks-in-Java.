@@ -1,10 +1,10 @@
-public class Task2 {
+public class countHi {
         public static void main(String[] args) {
 
 
         }
 
-        public static String Task2(String str) {
+        public static String countHi(String str) {
 
             String count = "";
             for (int i = 0; i < str.length(); i++) {
