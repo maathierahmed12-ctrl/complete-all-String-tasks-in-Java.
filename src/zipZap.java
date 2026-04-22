@@ -1,10 +1,10 @@
-public class task18 {
+public class zipZap {
 
     public static void main(String[] args) {
 
     }
 
-    public static String Task17(String str, String charAt) {
+    public static String zipZap(String str, String charAt) {
         String result = "";
         int i;
 
