@@ -1,9 +1,9 @@
-public class task16 {
+public class sameStarChar {
     public static void main(String[] args) {
 
     }
 
-    public static Boolean Task16(String str, String charAt) {
+    public static Boolean sameStarChar(String str, String charAt) {
 
         for (int i = 1; i < str.length() - 1; i++) {
 

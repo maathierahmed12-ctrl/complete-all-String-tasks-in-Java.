@@ -1,10 +1,10 @@
-public class task15 {
+public class getSandwich {
 
     public static void main(String[] args) {
 
     }
 
-    public static String[] Task15( String str , String f , String L) {
+    public static String[] getSandwich( String str , String f , String L) {
 
              String result = "";
 
